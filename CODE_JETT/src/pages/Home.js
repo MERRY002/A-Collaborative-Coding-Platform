@@ -77,7 +77,7 @@ const Home = () => {
       </div>
       <footer>
         <h4>
-          2023 Code Jett. All rights reserved.
+          2025 Code Jett. All rights reserved.
         </h4>
       </footer>
     </div>
